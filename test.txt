@@ -5,7 +5,7 @@ x^2+3x+17
 
 2x)^2 = 4x^2
 {5x + [5 - 1}
-lim_{x -> 3 x
+lim_{x => 3 x
 
 # Not closed argument
 
