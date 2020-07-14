@@ -1,7 +1,7 @@
 # Space
 x^2+3x+17
 
-# Missing ending (), [] or {}
+# Missing starting/ending (), [] or {}
 
 2x)^2 = 4x^2
 {5x + [5 - 1}
