@@ -1,0 +1,17 @@
+# Space
+x^2+3x+17
+
+# Missing ending (), [] or {}
+
+2x)^2 = 4x^2
+{5x + [5 - 1}
+lim_{x -> 3 x
+
+# Not closed argument
+
+sin 2x
+cos 5y + 1
+
+# Parentheses at division
+
+x - 6 / x + 9
