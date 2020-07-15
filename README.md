@@ -2,7 +2,9 @@
   <img width="200" height="150" src="https://raw.githubusercontent.com/tacodtripe/ruby-math-linter/features/images/microverse-logo.png">
 </p>
 
-# Ruby Capstone project :  Plain text math linter.
+<p align="center">
+  # Ruby Capstone project :  Plain text math linter.
+ </p>
 
 ## About the project
   This is the **Ruby Capstone Project** required at the end of **Ruby** module in Microverse Curriculum.
