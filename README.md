@@ -65,7 +65,7 @@ good code: now it's clear what we are supposed to do.
  (x - 6) / (x + 9)
 ```
 
-## Instructions to use the 
+## Instructions to use the linter
 1. Clone the repository to your local machine.
 
 2. `cd` inside the folder
