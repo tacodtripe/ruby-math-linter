@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  # Ruby Capstone project :  Plain text math linter.
+  <h1>Ruby Capstone project :  Plain text math linter.</h1>
  </p>
 
 ## About the project
