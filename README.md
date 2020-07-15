@@ -2,13 +2,11 @@
   <img width="200" height="150" src="https://raw.githubusercontent.com/tacodtripe/ruby-math-linter/features/images/microverse-logo.png">
 </p>
 
-<p align="center">
-  <h1>Ruby Capstone project :  Plain text math linter.</h1>
- </p>
+# Ruby Capstone project :  Plain text math linter.
 
 ## About the project
   This is the **Ruby Capstone Project** required at the end of **Ruby** module in Microverse Curriculum.
-  Specifically is a **Math Linter** with the purpose to check for spacing, function's arguments correctly enclosed, and general syntax corrections.
+  Specifically is a **Math Linter** with the purpose to check for spacing, function's arguments correctly enclosed, and general syntax corrections when writing math expresions in plain text.
 ## Built With
   Ruby
   
