@@ -1,6 +1,8 @@
-# Ruby Capstone project.
-# Plain text math linter.
+<p align="center">
+  <img width="460" height="300" src="img/microverse-logo.jpg">
+</p>
 
+# Ruby Capstone project :  Plain text math linter.
 
 ## About the project
   This is the **Ruby Capstone Project** required at the end of **Ruby** module in Microverse Curriculum.
