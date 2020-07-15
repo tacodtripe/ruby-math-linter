@@ -28,6 +28,25 @@ class Symbols
       puts ''
     end
   end
+
+  # removed colorize gem due to rspec errors
+  def self.missing_symbol_rspec(string, line)
+    arr = string.chars
+    opening = 0
+    ending = 0
+    arr.each_with_index do |n, _i|
+      if n == '[' || # rubocop:disable Style/MultipleComparison
+         n == '(' ||
+         n == '{'
+        opening += 1
+      elsif n == ']' || # rubocop:disable Style/MultipleComparison
+            n == ')' ||
+            n == '}'
+        ending += 1
+      end
+    end
+    return "- Missing ending/closing grouping symbol (), [] or {} at line #{line}" if opening != ending
+  end
   # rubocop:enable Metrics/CyclomaticComplexity
   # rubocop:enable Metrics/PerceivedComplexity
 end
