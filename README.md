@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="img/microverse-logo.jpg">
+  <img width="460" height="300" src="img/microverse-logo.png">
 </p>
 
 # Ruby Capstone project :  Plain text math linter.
