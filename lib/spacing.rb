@@ -15,4 +15,15 @@ class Spacing
       puts ''
     end
   end
+
+  def self.correct_trigonometric_space(string, line, trigonometric)
+    i = nil
+    i = string.index(trigonometric.to_s) + 3 if string.index(trigonometric.to_s)
+    if i && string[i] != ' ' # rubocop:disable Style/GuardClause
+      print '-'.colorize(:red)
+      print " Make sure to put one space between #{trigonometric} and it's argument at line".colorize(:white)
+      print " #{line}".colorize(:green)
+      puts ''
+    end
+  end
 end

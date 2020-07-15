@@ -15,3 +15,11 @@ cos 5y + 1
 # Parentheses at division
 
 x - 6 / x + 9
+
+# Mixing all cases
+
+x -cos2x - 4sin (x) - 1 / 5[6 - 2]) 
+
+# Correct syntax of the previous case 
+
+(x - cos (2x) - 4sin (x) - 1) / (5[6 - 2])
