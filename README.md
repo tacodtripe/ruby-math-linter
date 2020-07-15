@@ -65,6 +65,15 @@ good code: now it's clear what we are supposed to do.
  (x - 6) / (x + 9)
 ```
 
+## Instructions to use the 
+1. Clone the repository to your local machine.
+
+2. `cd` inside the folder
+
+3. Go to terminal and Install Colorize by `gem install colorize`
+
+4. Run the command `ruby main.rb` to test the attached 'test.txt' file
+
 ## Instructions to test using Rspec
 1. Clone the repository to your local machine.
 

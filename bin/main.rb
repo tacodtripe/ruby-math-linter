@@ -1,7 +1,6 @@
 require_relative '../lib/spacing.rb'
 require_relative '../lib/symbols.rb'
 require_relative '../lib/syntax.rb'
-require 'strscan'
 
 file = '../test.txt'
 line_number = 1
