@@ -68,11 +68,13 @@ good code: now it's clear what we are supposed to do.
 ## Instructions to use the linter
 1. Clone the repository to your local machine.
 
-2. `cd` inside the folder
+2. `cd` inside the bin the folder
 
 3. Go to terminal and Install Colorize by `gem install colorize`
 
 4. Run the command `ruby main.rb` to test the attached 'test.txt' file
+
+Note: if you would like to test your own math expressions edit the 'test.txt' as much as you want, just keep in mind that comment lines must start with a '#' so the linter works properly.
 
 ## Instructions to test using Rspec
 1. Clone the repository to your local machine.
