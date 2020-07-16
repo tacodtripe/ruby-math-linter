@@ -2,7 +2,7 @@ require_relative '../lib/spacing.rb'
 require_relative '../lib/symbols.rb'
 require_relative '../lib/syntax.rb'
 
-file = '../test.txt'
+file = 'test.txt'
 line_number = 1
 File.readlines(file).each do |line|
   if line[0] == '#'
