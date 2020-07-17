@@ -76,6 +76,9 @@ good code: now it's clear what we are supposed to do.
 
 Note: if you would like to test your own math expressions edit the 'test.txt' as much as you want, just keep in mind that comment lines must start with a '#' so the linter works properly.
 
+## Live version
+1. If you are in a hurry try [this](https://repl.it/@tacodtripe/ruby-math-linter#bin/test.txt) so you can have a quick look at what the linter does.
+
 ## Instructions to test using Rspec
 1. Clone the repository to your local machine.
 
