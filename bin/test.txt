@@ -1,0 +1,25 @@
+# Space
+x^2+3x+17
+
+# Missing starting/ending (), [] or {}
+
+2x)^2 = 4x^2
+{5x + [5 - 1}
+lim_{x => 3 x
+
+# Not closed argument
+
+sin 2x
+cos 5y + 1
+
+# Parentheses at division
+
+x - 6 / x + 9
+
+# Mixing all cases
+
+x -cos2x - 4sin (x) - 1 / 5[6 - 2]) 
+
+# Correct syntax of the previous case 
+
+(x - cos (2x) - 4sin (x) - 1) / (5[6 - 2])
